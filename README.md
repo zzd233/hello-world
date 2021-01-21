@@ -1,4 +1,4 @@
 # hello-world
 hello world
 
-$ e = mc ^ 2$
+$e = mc ^ 2$
